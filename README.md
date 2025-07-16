@@ -57,15 +57,6 @@ All figures are located in the `doc/` folder. Each corresponds to a specific sta
 
 ---
 
-## 📎 References
-
-- Landsat (NDVI data)
-- CHIRPS (Precipitation)
-- Peer-reviewed literature on erosion modeling and vegetation recovery  
-(Full citations available in the `REFERENCES` section of the report.)
-
----
-
 ## 👤 Author
 
 **Rithik Thakur**  
