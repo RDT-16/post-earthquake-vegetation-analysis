@@ -62,8 +62,8 @@ All figures are located in the `doc/` folder. Each corresponds to a specific sta
 ## 👤 Author
 
 **Rithik Thakur**  
-🧠 CSE Core | 📊 Data & Earth Analytics | 🌏 Sustainable Tech  
-🔗 [LinkedIn](https://www.linkedin.com/)  
+🧠 CSE Core | 📊 Data Analytics 
+🔗 [LinkedIn](https://www.linkedin.com/in/rithik-thakur-ba954924b/)  
 📩 Reach out via issues or discussions tab for project queries.
 
 ---
