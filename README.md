@@ -23,20 +23,22 @@ All figures are located in the `doc/` folder. Each corresponds to a specific sta
 
 | File Name     | Description |
 |---------------|-------------|
-| `fig(a).png`  | Organizing climate data (CHIRPS merge) |
-| `fig(b).png`  | Loading Landsat NDVI data |
-| `fig(c).png`  | Pre- and post-earthquake NDVI comparison |
-| `fig(d).png`  | Average NDVI summary values |
-| `fig(e).png`  | Training/testing data split |
-| `fig(f).png`  | Model comparison (Random Forest, SVR, etc.) |
-| `fig(g).png`  | Random Forest prediction tuning |
-| `fig(h).png`  | NDVI prediction trends with accuracy metrics |
-| `fig(i).png`  | Pre-earthquake NDVI plot |
-| `fig(j).png`  | Post-earthquake NDVI plot |
-| `fig(k).png`  | Historical NDVI time series |
-| `fig(l).png`  | Future NDVI forecast plot |
-| `fig(m).png`  | System architecture/workflow |
-| `fig(n).png`  | Data preprocessing and feature engineering |
+| `fig(a).png`  | Sample Landsat NDVI Data |
+| `fig(b).png`  | Sample Landsat Data |
+| `fig(c).png`  | Data PreProcessing and Feature Engineering |
+| `fig(d).png`  | System Workflow |
+| `fig(e).png`  | Organizing Climate Data |
+| `fig(f).png`  | Loading Landaat Data |
+| `fig(g).png`  | Pre and Post-Eartquake Data Comparison |
+| `fig(h).png`  | Average NDVI Values |
+| `fig(i).png`  | Testing and Training Split |
+| `fig(j).png`  | Comparison of Prediction Models |
+| `fig(k).png`  | Random Forest for Prediction |
+| `fig(l).png`  | Predicted Trends and Accuracy validation |
+| `fig(m).png`  | Pre-Eartquake Data |
+| `fig(n).png`  | Post-Eartquake Data |
+| `fig(o).png`  | Historical NDVI  Data |
+| `fig(p).png`  | Future Prediction of Vegetation Health |
 
 ---
 
